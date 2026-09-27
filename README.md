@@ -1,5 +1,6 @@
 # ComfyUI CopyNotes
 This is giga vibe coded btw, I just want it for myself but I put it here just incase I lose the file.
+
 A ComfyUI sidebar for organizing reusable prompt snippets into color-coded, collapsible groups. Search, pin favorites, view recent copy history, undo deletes, and export/import your snippet library as JSON with automatic backups.
 
 ## Features
