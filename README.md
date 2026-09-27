@@ -34,7 +34,7 @@ A ComfyUI sidebar for organizing reusable prompt snippets into color-coded, coll
 - Click any snippet to copy it to your clipboard.
 - Click the pencil icon to edit a snippet, or the ✕ icon to delete it (with a 5-second undo).
 - Click the star icon to pin/unpin a snippet to the Pinned section.
-- Double-click a group's name to rename it, or click its color dot to recolor it.
+- Click a group's color dot to recolor it.
 - Drag the grip handle (⠿) on a group or snippet to reorder it.
 - Use **Export** to download a backup of your whole library, and **Import** to load one back in (this replaces your current library, after backing up the old one to `data/backups/`).
 
