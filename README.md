@@ -13,7 +13,7 @@ A ComfyUI sidebar for organizing reusable prompt snippets into color-coded, coll
 - **Export / Import** — export your whole snippet library as a JSON file; importing replaces the current library, automatically backing up what was there beforehand.
 - **One-click copy** — click any snippet to copy it to your clipboard.
 - Data is stored locally in this node's own `data/` folder, so it survives ComfyUI restarts and has nothing to do with any particular workflow.
-
+ <img src="Screenshot of Sidebar.jpg" width="500">
 ## Installation
 
 1. Go to your ComfyUI `custom_nodes` folder:
